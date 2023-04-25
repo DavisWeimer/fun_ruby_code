@@ -8,4 +8,4 @@ else
   puts "Nothing to do here!"
 end
   
-puts "Your string is: #{user_input}"
+puts "Daffy says: #{user_input}"
